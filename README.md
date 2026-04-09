@@ -1,6 +1,10 @@
 # Hi, I'm Chirag  
 ⟡ ⋆ focused on building intelligent systems, not just models ⋆ ⟡  
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/dd06b5155961809.635ebbdf21258.gif" width="500"/>
+</p>
+
 ---
 
 ## 👾 About Me
