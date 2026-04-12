@@ -2,7 +2,7 @@
 ⟡ ⋆ focused on building intelligent systems, not just models ⋆ ⟡  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" width="100%"/>
 </p>
 
 ---
