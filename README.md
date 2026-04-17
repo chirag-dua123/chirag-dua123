@@ -2,7 +2,7 @@
 ⟡ ⋆ focused on building intelligent systems, not just models ⋆ ⟡  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" width="100%"/>
+  <img src="https://i.pinimg.com/736x/cb/ed/8e/cbed8ea92d054fed67ea50e7b744e7fc.jpg" width="100%"/>
 </p>
 
 ---
@@ -22,11 +22,11 @@ I focus on combining strong CS fundamentals with machine learning to build pract
 
 | Category      | Tech Stack |
 |--------------|-----------|
-| **Languages** | Python, C++, Java |
-| **Frontend**  | HTML, CSS, JavaScript |
-| **Backend**   | Node.js, Express |
-| **AI / ML**   | NumPy, Pandas, Scikit-learn, TensorFlow (learning) |
-| **Tools**     | Git, GitHub, Linux, VS Code |
+| **Languages** | Python, C++, C |
+| **Frontend**  | HTML, CSS, JavaScript, React |
+| **Backend**   | Node.js, Express, REST |
+| **AI / ML**   | NumPy, Pandas, Seaborn, Scikit-learn, TensorFlow (learning) |
+| **Tools**     | Git, GitHub, Linux, VS Code, Codex CLI |
 
 ---
 
@@ -39,7 +39,7 @@ I focus on combining strong CS fundamentals with machine learning to build pract
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add if you have one)
+- GitHub: https://github.com/ninja_haroti  
+- LinkedIn: https://www.linkedin.com/in/chirag-dua-0b8820262/
 
 ---
